@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Storyting</string>
+    <string name="title_signup">Complete Your Profile Below!</string>
+    <string name="message_login_page">Please enter your credentials</string>
+    <string name="login">SIGN IN</string>
+    <string name="register_here">Doesn\'t have an account?<u>Sign up here!</u></string>
+    <string name="logout">Logout</string>
+    <string name="user_name">nama user</string>
+    <string name="date_time">date time</string>
+    <string name="camera_button">open camera</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">CREATE ACCOUNT</string>
+    <string name="title_login_page">Welcome to Storyting</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="title_activity_maps">Map of Stories</string>
+    <string name="maps">Maps</string>
+    <string name="gallery_button">from gallery</string>
+    <string name="add_story">post story</string>
+    <string name="floating_button">floating button</string>
+</resources>
